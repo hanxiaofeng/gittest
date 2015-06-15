@@ -6,4 +6,5 @@ Main()
 show()
 {
 	print "show"
+	print "my name is wangkeke"
 }
